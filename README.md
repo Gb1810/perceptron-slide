@@ -1,3 +1,31 @@
+
+# Perceptron – Atividade Prática (IA)
+
+📌 Aluno: Guilherme Barroso dos Santos  
+📌 RA: 125111401820  
+📌 Curso: Engenharia de Software  
+📌 Professor: Alexandre “Montanha” de Oliveira  
+📌 Data de entrega: 07/09/2025  
+
+---
+
+Este repositório contém um exemplo simples de Perceptron em Python e as respostas às perguntas solicitadas pelo professor.  
+O código está em `main.py` e o README inclui uma explicação didática sobre o modelo e sobre o processo de treinamento.
+
+> Observação: o código fornecido como base não implementa *treinamento*; ele demonstra as funções de entrada (`perceptron_input`) e de saída (`perceptron_output`) e um `main` para execução.  
+> As respostas sobre treinamento descrevem o procedimento geral de um Perceptron para fins pedagógicos.
+
+---
+
+## Como executar
+1. Tenha o Python 3 instalado.
+2. Rode:
+   ```bash
+   python main.py
+
+
+
+
 # Perceptron – Atividade Prática (IA)
 
 Este repositório contém um exemplo simples de Perceptron em Python e as respostas às perguntas solicitadas pelo professor. O código está em `main.py` e o README inclui uma explicação didática sobre o modelo e sobre o processo de treinamento.
